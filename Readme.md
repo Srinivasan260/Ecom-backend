@@ -20,7 +20,7 @@ A complete backend API for an E-commerce application using **Express.js**, **Mon
 ### ✅ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ecommerce-backend.git
+git clone https://github.com/Srinivasan260/Ecom-backend.git
 cd ecommerce-backend
 
 npm install    -- to install Dependencies
