@@ -9,7 +9,7 @@ A complete backend API for an E-commerce application using **Express.js**, **Mon
 - **Node.js + Express.js**
 - **MongoDB** (with Mongoose)
 - **JWT Authentication**
-- **Apache Kafka** (Aiven Cloud)
+- **Apache Kafka** (Confluent Cloud)
 - **Redis Cloud**
 - **Stripe Payment Gateway**
 
