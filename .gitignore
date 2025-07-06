@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Kafka certificate files and cert directories
+*.pem
+certs/
+src/config/certs/
+
+# Log files
+logs/
+*.log
+npm-debug.log*
+
+
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: VS Code workspace settings
+.vscode/
